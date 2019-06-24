@@ -31,6 +31,19 @@ This is a music player application named as DeePlayer. This have all the feature
 
 12. Select Particular Track From The Playlist
 
+13. Transparent Window
+
+14. Advanced GUI
+
+15. Userfriendly Interface
+
+16. Label to describe the buttons
+
+
+## How To Run
+
+Just run the main.py file from the folder.
+
 
 ## Requirement
 
