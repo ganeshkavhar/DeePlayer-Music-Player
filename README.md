@@ -39,6 +39,10 @@ This is a music player application named as DeePlayer. This have all the feature
 
 16. Label to describe the buttons
 
+17. Working Progress Bar
+
+18. Current Duration of track and Total duration of track
+
 
 ## How To Run
 
